@@ -30,3 +30,13 @@ The objective of this project is to analyze and optimize the recorded lecture of
 
 ## Dashboard
 ![Dashboard_Image](https://github.com/user-attachments/assets/47ef1cf9-e9fd-44ee-8a5e-98635dab7c7c)
+
+## Project Insights
+- The analysis reveals that MOOCs (Massive Open Online Courses) dominate the online learning space, with professional certifications being a growing trend. Business, Data Science, and Computer Science courses attract the highest engagement.
+- English is the most preferred language, but significant demand exists for courses in Chinese, Spanish, and Portuguese. Subtitle availability correlates positively with higher viewership, indicating accessibility plays a key role in engagement.
+- Skills like Machine Learning, Data Analysis, Python Programming, and Communication are in high demand. The word cloud visualization highlights key skill clusters, helping align course offerings with industry needs.
+- A small group of top-rated instructors consistently attract more learners. Identifying and collaborating with these educators can significantly enhance course effectiveness and marketability.
+- Shorter courses (under 60 hours per month) generally perform better in terms of engagement. However, longer flexible courses (over 200 hours) cater to learners seeking in-depth expertise, indicating the need for a balanced content strategy.
+
+## Final Conclusion
+This analysis provides valuable insights for the EdTech startup to optimize its content strategy, ensuring alignment with market trends and learner preferences. By focusing on high-demand categories, offering courses in multiple languages with subtitles, collaborating with top instructors, and maintaining an optimal course length, the startup can enhance learner engagement and improve competitiveness in the online education market.
